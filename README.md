@@ -5,8 +5,8 @@
 - Write a short introduction to the project.
 - If you are using badges, add them here.
 
-## :ledger: Index
-
+## Index 
+<!--- :ledger: --->
 - [About](#beginner-about)
 - [Usage](#zap-usage)
   - [Installation](#electric_plug-installation)
@@ -27,6 +27,8 @@
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 - [License](#lock-license)
 
+<!---  
+<details> <summary> HERE TEXT SUCH AS CLICK ME </summary>
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
 
@@ -154,3 +156,5 @@ Credit the authors here.
 
 ##  :lock: License
 Add a license here, or a link to it.
+</details>
+--->
